@@ -28,6 +28,7 @@
 
 .youtube-logo {
     height: 20px;
+    cursor:pointer;
 }
 
 .middle-section {
@@ -76,6 +77,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor:pointer;
 }
 
 .search-button .tooltip, 
